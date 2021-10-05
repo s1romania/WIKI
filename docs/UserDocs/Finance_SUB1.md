@@ -3,6 +3,7 @@ layout: default
 title: Configurationdssd
 nav_order: 1
 parent: Finance
+grand_parent: User Docs
 ---
 
 # Configuration
