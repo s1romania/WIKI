@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome S2 ROmania
 
 You can use the [editor on GitHub](https://github.com/s1romania/WIKI.info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
