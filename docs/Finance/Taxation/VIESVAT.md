@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Taxation
+title: Vies Vat for EU
 nav_order: 3
 parent: Taxation
-grandparent: Finance
+grand_parent: Finance
 ---
 
 # Configuration

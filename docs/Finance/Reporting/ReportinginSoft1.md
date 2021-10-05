@@ -3,7 +3,7 @@ layout: default
 title: Reporting in Soft1
 nav_order: 3
 parent: Reporting
-grandparent: Finance
+grand_parent: Finance
 ---
 
 # Configuration
