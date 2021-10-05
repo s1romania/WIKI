@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customer Payments
+title: Supplier Payments
 nav_order: 4
 parent: Account Payables
 grand_parent: Finance
