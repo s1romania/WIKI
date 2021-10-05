@@ -3,6 +3,7 @@ layout: default
 title: Finance
 nav_order: 0
 has_children: true
+parent: User Docs
 permalink: docs/Finance
 ---
 
