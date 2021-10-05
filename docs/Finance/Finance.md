@@ -1,9 +1,9 @@
 ---
 layout: default
-title: User Docs
-nav_order: 1
+title: Finance
+nav_order: 0
 has_children: true
-permalink: docs/UserDocs
+permalink: docs/Finance
 ---
 
 # User Documents
