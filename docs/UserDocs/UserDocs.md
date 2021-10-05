@@ -1,13 +1,14 @@
 ---
 layout: default
 title: User Docs
-nav_order: 1
+nav_order: 0
 has_children: true
-permalink: docs/utilities
+permalink: docs/UserDocs
 ---
 
 # User Documents
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+CSS utility classes come in handy when you to want to override default styles to create additional whitespace 
+(margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
 {: .fs-6 .fw-300 }
