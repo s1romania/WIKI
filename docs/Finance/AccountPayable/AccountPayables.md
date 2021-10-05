@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Account Receivables
-nav_order: 1
+title: Account Payables
+nav_order: 2
 has_children: true
 parent: Finance
 ---

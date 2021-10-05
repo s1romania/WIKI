@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Account Receivables
-nav_order: 1
-has_children: true
-parent: Finance
+title: Customer Payments
+nav_order: 4
+parent: Account Payables
+grand_parent: Finance
 ---
 
 # Configuration
