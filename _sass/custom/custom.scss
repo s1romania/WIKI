@@ -9,7 +9,11 @@
     margin-left: calc( (39% - 0px) / 2 + 55px );
 	max-width: 1000px;
 }
-	
+
+.site-title {
+     padding-right: 0; 
+     padding-left: 0;
+}
 .nav-list .nav-list-item {
     font-size: 15px !important;
     font-weight: 500;
