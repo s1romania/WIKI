@@ -5,7 +5,7 @@ nav_order: 0
 description: "SoftOne Romania Wiki"
 permalink: /
 ---
-
+![AVG Formula](/WIKI/assets/images/romania.jpg)
 # Soft1 ERP User Documentation for Romania
 {: .fs-9 }
 
