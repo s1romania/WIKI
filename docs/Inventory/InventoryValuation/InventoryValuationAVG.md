@@ -25,7 +25,7 @@ The average cost method calculates the cost of ending inventory and cost of good
 The weighted average cost per unit is calculated using the following formula:
 
 
-![AVG Formula](/assets/images/just-the-docs.png)
+![AVG Formula](WIKI/assets/images/just-the-docs.png)
 
 When new goods arrive in a warehouse, the new average cost is recomputed as:
 
