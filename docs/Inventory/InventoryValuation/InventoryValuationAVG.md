@@ -100,15 +100,14 @@ Weighted Average cost example explained **after 1 sale**
 **Step 5.** Run Cost Price Calculation batch operation (if it is not defined in the settings of the app) and check the option like below. This will calculate the Cost of Good sold for the sale document we posted in the previous step.
 
 |In the calculation of cost prices participate all the warehouse movements that in Doc type design affect invoiced quantities and import / export values.|
-| :- |
+
 
 
 
 |Cost of Goods Sold in this document and in summary reportsInside the sales document, you can drag and drop the column  
 COST (itelines.SALESCVAL)Numerous reports can help you find the information you need.
- **Item Statements(MAT\_STM)**As well as a simple browser list can provide you the information you need
-|
-| :- |
+ **Item Statements(MAT\_STM)**As well as a simple browser list can provide you the information you need|
+
 
 
 
