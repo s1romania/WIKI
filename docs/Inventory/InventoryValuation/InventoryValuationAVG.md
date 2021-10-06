@@ -8,7 +8,7 @@ grand_parent: Inventory
 
 
 
-## Average Price Evaluation in Soft1 ERP
+# Average Price Evaluation in Soft1 ERP
 
 The suggested method you can use in perpetual stock valuation in Soft1 ERP, is the average cost. This document answers to the recurrent questions for companies using that method to make their stock valuation: How will it work and how does a shipping returned to its supplier impact the average cost? This document is only for the specific use case of a perpetual valuation and in average price costing method (as opposed to standard of FIFO).
 
@@ -16,7 +16,7 @@ The suggested method you can use in perpetual stock valuation in Soft1 ERP, is t
 | :- | :- |
 |Accounting record field used|[MTL57] [Import-export cost (goods sold)]|
 
-Definition of average cost
+## Definition of average cost
 
 The average cost method calculates the cost of ending inventory and cost of goods sold on the basis of weighted average cost per unit of inventory.
 
@@ -32,7 +32,7 @@ Average Cost method is widely accepted by numerous accounting standards, includi
 Average Cost is superior to FIFO and LIFO, especially when the items are **indistinguishable** from one another or when tracking individual items would be highly inefficient. Average Cost can also effectively normalize **cost fluctuations and volatilities** and help **reduce the inappropriate manipulation of income**.  Each time there is a purchase that adds additional units into Inventory, the average cost is recalculated. This weighted-average ensures that both past and new purchases are incorporated into the cost, ensuring that Costs of Goods Sold is not overstated (which is an issue with LIFO) or understated (which is an issue with FIFO).
 
 
-Examples
+## Examples
 
 
 The scenario below was prepared on 01 October 2021 using Soft1 Series 5 version 521.11438
@@ -68,7 +68,7 @@ Weighted Average cost example explained **after 2 purchases**
 | :- |
 
 
-Sales use case
+## Sales use case
 
 Now that we have a clear view of the balance cost and the weighted average cost lets move ahead.
 
@@ -100,7 +100,7 @@ Weighted Average cost example explained **after 1 sale**
 
 
 
-Sales return use case
+## Sales return use case
 
 **Step 6.** A customer returns 1 piece of the item he bought. Convert your sales invoice into a credit note-Delivery Note
 
@@ -197,7 +197,7 @@ The result is going to be the same as the previous flow, but in one single trans
 
 
 
-**BASIC Troubleshooting**
+## **BASIC Troubleshooting**
 
 1. Every transaction TYPE (it doesn’t matter which object it is) in SoftOne has the following option:
 
@@ -227,7 +227,9 @@ A wrong setup on your transactions might lead in to wrong results.
 - Consumption and Production Notes
 1. You have done everything, but still don’t see correct numbers. Try running the reupdate process for inventory. More info on this are available on WIKI at the thread “REUPDATES” 
 
-**APPENDIX**
+
+
+## **APPENDIX**
 
 **What Is Inventory Valuation?**
 Inventory valuation is the accounting process of assigning value to a company’s inventory. Inventory typically represents a large portion of the assets of any company that sells physical items, so it’s important to measure its value in a consistent manner. A clear understanding of inventory valuation can help maximize profitability. It also ensures the company can accurately represent the value of inventory on its financial statements.
@@ -250,7 +252,9 @@ The overall objective of inventory valuation is to help create an accurate pictu
 
 The benefit is that it’s much easier to track than specific costing because you don’t need to know exactly which batch a sold unit was part of, which is especially helpful when you have many identical units
 
-**Resources**
+
+
+## **Resources**
 
 Soft1 WIKI àInventory Configuration [link here](https://wiki.soft1.eu/display/SS4EN/Inventory+Configuration)
 
