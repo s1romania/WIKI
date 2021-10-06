@@ -30,15 +30,19 @@ or read SoftOne's International WIKI <br/>
 
 ## Getting started
 
-### Categories
+### Localization of Soft1 ERP in Romania
 
-Use the menu to navigate from the left
+When operating a Romanian centered company, you have to use the Fiscal Localization Package in the form of a template database called "xdt" which includes
+ country-specific data and flows that include document types, pre-configured taxes,  chart of accounts, and legal statements support on your database.
+ Some additional features are also added to your SoftOne
+ following your fiscal administration requirements.
 
 
+## Disclaimer
 
-## About the project
+The screenshots and operational flows presented in this area, include functionality preconfigured by SoftOne Romania. Note that your installation may bahve differencies due to 
+the specific implementation made by your partner. 
 
-Developed by Soft1 Romania for partners and users
 
 
 
