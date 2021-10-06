@@ -9,7 +9,7 @@ permalink: /
 
 
 <!---![AVG Formula](/WIKI/assets/images/romania.jpg)-->
-# Soft1 ERP User Documentation for Romania Welcome!gfhh
+# Soft1 ERP User Documentation for Romania Welcome!fdgdfg
 {: .fs-9 }
 
 
