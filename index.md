@@ -9,8 +9,11 @@ permalink: /
 # Soft1 ERP User Documentation for Romania
 {: .fs-9 }
 
-Discover our user guides and configuration tutorials per application.
 
+Soft1 ERP is localized, translated, and supported by SoftOne and made available in Romania. 
+The Romanian Localization includes regulatory features as well as best practises of the local market.
+The Romanian Localization represents a bundle of software enhancements developed according to Romania’s specific legislation for commercial and accounting software.
+This functionality is enabled based on the operation country of your active legal entity and a set of enhancements in the standard Soft1 database.
 
 {: .fs-6 .fw-300 }
 
