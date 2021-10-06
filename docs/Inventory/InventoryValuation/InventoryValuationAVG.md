@@ -32,12 +32,11 @@ Average Cost method is widely accepted by numerous accounting standards, includi
 Average Cost is superior to FIFO and LIFO, especially when the items are **indistinguishable** from one another or when tracking individual items would be highly inefficient. Average Cost can also effectively normalize **cost fluctuations and volatilities** and help **reduce the inappropriate manipulation of income**.  Each time there is a purchase that adds additional units into Inventory, the average cost is recalculated. This weighted-average ensures that both past and new purchases are incorporated into the cost, ensuring that Costs of Goods Sold is not overstated (which is an issue with LIFO) or understated (which is an issue with FIFO).
 
 
-## Examples
+##Examples
 
-{% highlight some_language %}
+```yaml
 The scenario below was prepared on 01 October 2021 using Soft1 Series 5 version 521.11438
-{% endhighlight %}
-
+```
 
 
 |1. *You will create a NEW ITEM without past transactions*
