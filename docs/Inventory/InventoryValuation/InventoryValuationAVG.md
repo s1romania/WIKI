@@ -10,11 +10,13 @@ grand_parent: Inventory
 
 # Average Price Evaluation in Soft1 ERP
 
+
 The suggested method you can use in perpetual stock valuation in Soft1 ERP, is the average cost. This document answers to the recurrent questions for companies using that method to make their stock valuation: How will it work and how does a shipping returned to its supplier impact the average cost? This document is only for the specific use case of a perpetual valuation and in average price costing method (as opposed to standard of FIFO).
 
 |Cost of Goods Sold <br>Commercial Document(Sales, Purchases etc)|Itelines.SALESCVAL|
 | :- | :- |
 |Accounting record field used|[MTL57] [Import-export cost (goods sold)]|
+
 
 ## Definition of average cost
 
@@ -25,14 +27,15 @@ The weighted average cost per unit is calculated using the following formula:
 When new goods arrive in a warehouse, the new average cost is recomputed as:
 
 
-
 The only time you would recalculate the unit cost in the average cost method is when you make an additional purchase.
 
 Average Cost method is widely accepted by numerous accounting standards, including US GAAP and IFRS.. Using an average significantly simplifies the calculations and recordkeeping associated with maintaining the inventory and determining the Cost of Goods Sold. Both FIFO and LIFO require that individual items be tracked, which can be expensive and extremely time consuming for the users. 
 Average Cost is superior to FIFO and LIFO, especially when the items are **indistinguishable** from one another or when tracking individual items would be highly inefficient. Average Cost can also effectively normalize **cost fluctuations and volatilities** and help **reduce the inappropriate manipulation of income**.  Each time there is a purchase that adds additional units into Inventory, the average cost is recalculated. This weighted-average ensures that both past and new purchases are incorporated into the cost, ensuring that Costs of Goods Sold is not overstated (which is an issue with LIFO) or understated (which is an issue with FIFO).
 
 
-##Examples
+
+
+## Examples
 
 ```yaml
 The scenario below was prepared on 01 October 2021 using Soft1 Series 5 version 521.11438
