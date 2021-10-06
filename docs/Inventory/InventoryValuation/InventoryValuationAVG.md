@@ -64,7 +64,7 @@ Weighted Average cost example explained **after 2 purchases**
 
 
 
-<p>NOTE / Common mistake</p>
+###NOTE / Common mistake
 If you are going to run the batch operation “Cost Price Calculation” for more than one months always execute this operation
  for the CURRENT MONTH **LAST**.
 If you dont then the cost numbers will not be correct, since the application will use the last calculation as reference point.
@@ -98,7 +98,10 @@ Weighted Average cost example explained **after 1 sale**
 
 
 
-|<p>Cost of Goods Sold in this document and in summary reports</p><p>Inside the sales document, you can drag and drop the column  COST (itelines.SALESCVAL)</p><p></p><p></p><p>Numerous reports can help you find the information you need. <br>**Item Statements(MAT\_STM)**</p><p></p><p></p><p>As well as a simple browser list can provide you the information you need</p><p></p><p></p><p></p><p></p>|
+|Cost of Goods Sold in this document and in summary reportsInside the sales document, you can drag and drop the column  
+COST (itelines.SALESCVAL)Numerous reports can help you find the information you need.
+ **Item Statements(MAT\_STM)**As well as a simple browser list can provide you the information you need
+|
 | :- |
 
 
