@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: SoftOne Romania Wiki
 description: SoftOne ROmania Wiki
-baseurl: "/WIKI.info" # the subpath of your site, e.g. /blog
+baseurl: "/WIKI" # the subpath of your site, e.g. /blog
 url: "https://s1romania.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
