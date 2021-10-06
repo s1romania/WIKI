@@ -5,7 +5,10 @@ nav_order: 0
 description: "SoftOne Romania Wiki"
 permalink: /
 ---
-![AVG Formula](/WIKI/assets/images/romania.jpg)
+
+
+
+<!---![AVG Formula](/WIKI/assets/images/romania.jpg)-->
 # Soft1 ERP User Documentation for Romania
 {: .fs-9 }
 
@@ -44,7 +47,9 @@ The screenshots and operational flows presented in this area, include functional
 the specific implementation made by your partner. 
 
 
+## Be a contributor?
 
+Do you wish to become a ctributor in our content? Please get in touch with our sales team! 
 
 
 
