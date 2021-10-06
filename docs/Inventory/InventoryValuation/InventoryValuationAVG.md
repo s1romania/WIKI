@@ -64,13 +64,13 @@ Weighted Average cost example explained **after 2 purchases**
 
 
 
-| ** NOTE / Common mistake** |
+|** NOTE / Common mistake**|
 |If you are going to run the batch operation “Cost Price Calculation” for more than one months always execute this operation
  for the CURRENT MONTH **LAST**.
 If you dont then the cost numbers will not be correct, since the application will use the last calculation as reference point.
 For instance if in my scenario i run the LAST cost operation for August (when i bought the item on 1euro price[note:September i bought it 1,10] 
  then the results will be like the ones below WRONG! )
- Instead, run the operation for the last time for the CURRENT Month and the results will be correct! |
+ Instead, run the operation for the last time for the CURRENT Month and the results will be correct!|
 
 
 
