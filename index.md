@@ -18,8 +18,10 @@ This functionality is enabled based on the operation country of your active lega
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .btn-green  .fs-5 .mb-4 .mb-md-0 .mr-2 } <br/>
+<!--- The tag below  will have a margin bottom of 1rem/16px at large screens. --->
+{: .mb-lg-4 }
 or read SoftOne's International WIKI <br/>
-<!--- This paragraph will have a margin bottom of 1rem/16px at large screens. --->
+<!--- The tag below  will have a margin bottom of 1rem/16px at large screens. --->
 {: .mb-lg-4 }
  [wiki.soft1.eu](http://wiki.soft1.eu){: .btn .btn-primary  .btn-blue  .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
