@@ -217,8 +217,8 @@ A wrong setup on your transactions might lead in to wrong results.
 
 
 
-|*NOTE: Only for ROMANIAN version of Soft1 and onlye for 521 version and beyond*|
-| :- |
+*NOTE: Only for ROMANIAN version of Soft1 and onlye for 521 version and beyond*
+
 
 1. Investigate if your users have posted transactions using other operational entities of Soft1 ERP like 
 - Inventory Transactions
@@ -226,6 +226,7 @@ A wrong setup on your transactions might lead in to wrong results.
 - Production Documents
 - Consumption and Production Notes
 1. You have done everything, but still don’t see correct numbers. Try running the reupdate process for inventory. More info on this are available on WIKI at the thread “REUPDATES” 
+
 
 
 
