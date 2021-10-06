@@ -18,7 +18,7 @@ This functionality is enabled based on the operation country of your active lega
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .btn-green  .fs-5 .mb-4 .mb-md-0 .mr-2 } <br/>
-or read SoftOne's International WIKI 
+or read SoftOne's International WIKI <br/>
  [wiki.soft1.eu](http://wiki.soft1.eu){: .btn .btn-primary  .btn-blue  .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
