@@ -34,11 +34,18 @@ Average Cost is superior to FIFO and LIFO, especially when the items are **indis
 
 ## Examples
 
-
+{% highlight some_language %}
 The scenario below was prepared on 01 October 2021 using Soft1 Series 5 version 521.11438
+{% endhighlight %}
 
 
-|<p>1. *You will create a NEW ITEM without past transactions*</p><p>2. *You will keep the number straight so that the results are easily calculated*</p><p>3. *You will be posting transactions in 3 months*</p><p>4. *adjust the months described below to your current month-2 months <br>   You will post purchases in 2 past months, 1 sales last month and one return this month*</p><p>5. *Your company is using Weighted avg. Cost for valuation method*</p>|
+
+|1. *You will create a NEW ITEM without past transactions*
+2. *You will keep the number straight so that the results are easily calculated*
+3. *You will be posting transactions in 3 months*
+4. *adjust the months described below to your current month-2 months <br> 
+  You will post purchases in 2 past months, 1 sales last month and one return this month*
+  5. *Your company is using Weighted avg. Cost for valuation method*|
 | :- |
 
 **Step 1.** Create a new item
