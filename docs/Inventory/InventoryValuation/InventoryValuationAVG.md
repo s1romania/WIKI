@@ -64,7 +64,7 @@ Weighted Average cost example explained **after 2 purchases**
 
 
 
-| ### NOTE / Common mistake|
+| ** NOTE / Common mistake** |
 |If you are going to run the batch operation “Cost Price Calculation” for more than one months always execute this operation
  for the CURRENT MONTH **LAST**.
 If you dont then the cost numbers will not be correct, since the application will use the last calculation as reference point.
