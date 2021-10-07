@@ -1,13 +1,12 @@
 ---
 layout: default
 title: S1ANAF Installation
-nav_order: 3
-has_children: true
+nav_order: 1
 parent: S1ANAF 
-grand_parent: Taxation
+
 ---
 
-# Configuration
+# S1 ANAF installation
 {: .no_toc }
 
 
