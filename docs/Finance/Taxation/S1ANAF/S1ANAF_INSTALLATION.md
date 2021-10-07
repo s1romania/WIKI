@@ -2,7 +2,8 @@
 layout: default
 title: S1ANAF Installation
 nav_order: 1
-parent: S1ANAF 
+parent: Taxation
+grand_parent: Finance
 
 ---
 
