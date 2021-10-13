@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Inchidere de luna
-nav_order: 2
-parent: Accounting
-grand_parent: Finance
+title: Accounting
+nav_order: 6
+has_children: true
+
 ---
 
 # Configuration

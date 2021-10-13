@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Accounting
-nav_order: 5
-has_children: true
-parent: Finance
+title: Chart of Accounts
+nav_order: 1
+parent: Accounting
+
 ---
 
 # Configuration

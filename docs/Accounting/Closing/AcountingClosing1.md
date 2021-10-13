@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Chart of Accounts
-nav_order: 1
-parent: Accounting
-grand_parent: Finance
+title: Inchidere de luna
+nav_order: 2
+parent: Inchidere de luna
+grand_parent: Accounting
 ---
 
 # Configuration

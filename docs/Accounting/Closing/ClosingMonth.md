@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Approvals Management
-nav_order: 32
-has_children: true
-parent: Productivity
+title: Inchidere de luna
+nav_order: 2
+parent: Accounting
+grand_parent: Accounting
 ---
 
 # Configuration
