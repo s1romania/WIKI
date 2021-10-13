@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How Tos
-nav_order: 5
+nav_order: 1
 has_children: true
 parent: Sales
 ---
