@@ -2,7 +2,6 @@
 layout: default
 title: Manage Pricing Policies
 nav_order: 3
-
 parent: Sales
 ---
 
