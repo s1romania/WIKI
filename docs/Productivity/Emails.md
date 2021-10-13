@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Send Emails to trading parties
+title: Notify Customers for OverDue Amount
 nav_order: 1
 parent: Productivity
 ---
