@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Sales
-nav_order: 2
+title: Getting Started
+nav_order: 1
 has_children: true
-permalink: docs/Sales
+permalink: docs/started
 ---
 
-# Sales
+# Getting Started
 {: .no_toc }
 
 CSS utility classes come in handy when you to want to override default styles to create additional whitespace 
