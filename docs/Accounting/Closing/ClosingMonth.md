@@ -3,7 +3,7 @@ layout: default
 title: Inchidere de luna
 nav_order: 2
 parent: Accounting
-grand_parent: Accounting
+
 ---
 
 # Configuration
