@@ -1,7 +1,7 @@
 ﻿---
 layout: default
-title: How to post sales 2
-nav_order: 3
+title: How to invoice to a  third country customer
+nav_order: 12
 parent: How Tos
 grand_parent: Sales
 ---

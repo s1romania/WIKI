@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: Selling in foreign Currency
-nav_order: 13
+nav_order: 31
 
 parent: How Tos
 

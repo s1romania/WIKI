@@ -1,11 +1,10 @@
 ﻿---
 layout: default
-title: How to post sales 1
+title: How to post a sales quote
 nav_order: 2
 parent: How Tos
 grand_parent: Sales
 ---
-
 
 
 # Average Price Evaluation in Soft1 ERP
