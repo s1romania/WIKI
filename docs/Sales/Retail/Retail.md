@@ -1,13 +1,12 @@
 ---
 layout: default
-title: S1ANAF Installation
+title: Retail
 nav_order: 1
-parent: Statements
-grand_parent: Finance
-
+has_children: true
+parent: Sales
 ---
 
-# S1 ANAF installation
+# Configuration
 {: .no_toc }
 
 

@@ -1,13 +1,16 @@
 ---
 layout: default
 title: S1ANAF Installation
-nav_order: 1
+nav_order: 2
 parent: Statements
 grand_parent: Finance
 
 ---
 
-# S1 ANAF installation
+# S1 ANAF manual
+
+
+
 {: .no_toc }
 
 
