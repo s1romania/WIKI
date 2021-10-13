@@ -3,7 +3,7 @@ layout: default
 title: Searching Records 
 nav_order: 2
 has_children: true
-permalink: docs/started
+parent: Getting Started
 ---
 
 # How to find data
