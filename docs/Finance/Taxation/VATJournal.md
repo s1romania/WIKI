@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Invoicing
-nav_order: 3
-parent: Account Receivables
+title: Vat Journals
+nav_order: 4
+parent: Taxation
 grand_parent: Finance
 ---
 
