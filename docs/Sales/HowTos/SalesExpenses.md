@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Invoice the shipping cost to the customer?
+title: Invoice the shipping cost to the customer
 nav_order: 30
 parent: How Tos
 

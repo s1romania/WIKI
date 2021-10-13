@@ -1,13 +1,14 @@
 ﻿---
 layout: default
-title: Invoice to a local customer
-nav_order: 10
-parent: How Tos
-grand_parent: Sales
+title: Managing deals with your suppliers
+nav_order: 4
+
+parent: Purchases
 ---
 
 
-# Average Price Evaluation in Soft1 ERP
+
+# Purchase Agreement in Soft1 ERP
 
 
 The suggested method you can use in perpetual stock valuation in Soft1 ERP, is the average cost. This document answers to the recurrent questions for companies using that method to make their stock valuation: How will it work and how does a shipping returned to its supplier impact the average cost? This document is only for the specific use case of a perpetual valuation and in average price costing method (as opposed to standard of FIFO).

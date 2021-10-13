@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: How to invoice to an EU customer
+title: Invoice  an EU customer
 nav_order: 11
 parent: How Tos
 grand_parent: Sales

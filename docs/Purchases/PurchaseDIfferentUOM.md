@@ -1,10 +1,10 @@
 ﻿---
 layout: default
-title: Invoice to a local customer
-nav_order: 10
-parent: How Tos
-grand_parent: Sales
+title: Purchase in different units of measure than sales
+nav_order: 3
+parent: Purchases
 ---
+
 
 
 # Average Price Evaluation in Soft1 ERP
