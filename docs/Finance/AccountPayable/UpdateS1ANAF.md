@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Vies Vat for EU
-nav_order: 3
-parent: Taxation / VAT
+title: Update Purchases from ANAF Status
+nav_order: 5
+parent: Account Payables
 grand_parent: Finance
 ---
 

@@ -1,23 +1,18 @@
 ---
 layout: default
-title: Vies Vat for EU
-nav_order: 3
-parent: Taxation / VAT
+title: Control and know when vendor bills should be paid
+nav_order: 5
+parent: Account Payables
 grand_parent: Finance
 ---
 
-# Configuration
-{: .no_toc }
+# Control and know when vendor bills should be paid 
+
+you can define how your vendor bills are controlled. For each purchase order, you can decide when the related vendor bill should be paid: either before or after you have received your products. You can also check at a glance what is the billing status of each purchase order.
+
+With the 3-way matching feature, Odoo compares the information appearing on the *Purchase Order*, the *Vendor Bill* and the *Receipt*, and lets you know if you should pay the bill. This way you can avoid paying incorrect or fraudulent vendor bills.
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
-{: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Vat Journals
 nav_order: 4
-parent: Taxation
+parent: Taxation / VAT
 grand_parent: Finance
 ---
 

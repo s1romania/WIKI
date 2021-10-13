@@ -2,7 +2,7 @@
 layout: default
 title: Vat Number Validation
 nav_order: 3
-parent: Taxation
+parent: Taxation / VAT
 grand_parent: Finance
 ---
 

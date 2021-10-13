@@ -2,7 +2,7 @@
 layout: default
 title: Taxes
 nav_order: 1
-parent: Taxation
+parent: Taxation / VAT
 grand_parent: Finance
 ---
 

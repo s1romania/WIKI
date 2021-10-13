@@ -1,17 +1,26 @@
 ---
 layout: default
-title: Reporting in Soft1
+title: Main Reports Available
 nav_order: 3
 parent: Reporting
 grand_parent: Finance
 ---
 
 # Configuration
-{: .no_toc }
+Besides the reports created specifically in each localisation module, a few very useful **generic** and **dynamic reports** are available for all countries :
 
+- **Balance Sheet**
+- **Profit and Loss**
+- **Chart of Account**
+- **Executive Summary**
+- **General Ledger**
+- **Aged Payable**
+- **Aged Receivable**
+- **Cash Flow Statement**
+- **Tax Report**
+- **Bank Reconciliation**
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
-{: .fs-6 .fw-300 }
+You can annotate every reports to print them and report to your adviser. Export to xls to manage extra analysis. Drill down in the reports to see more details (payments, invoices, journal items, etc.).
 
 ## Table of contents
 {: .no_toc .text-delta }
