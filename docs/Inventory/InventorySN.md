@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Managing Items with LOTs
-nav_order: 5
+title: Managing Items with Serial Numbers
+nav_order: 6
 permalink: docs/Inventory
 parent: Inventory
 ---
