@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Template Chart of Accounts
-nav_order: 1
-parent: Accounting
-
+title: Subscriptions
+nav_order: 26
+has_children: true
+parent: Sales
 ---
 
-# Configuration
+# Subscriptions
 {: .no_toc }
 
 
