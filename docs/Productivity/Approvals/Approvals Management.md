@@ -2,7 +2,7 @@
 layout: default
 title: Approvals Management with B.A.M.
 nav_order: 1
-parent: Approvals Management
+parent:  Approvals Management
 grand_parent: Productivity
 ---
 
