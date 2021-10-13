@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Taxation / VAT
-nav_order: 3
+nav_order: 12
 has_children: true
 parent: Finance
 ---
