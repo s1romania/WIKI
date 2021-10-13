@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inchidere de luna
+title: Inchidere de lunaxxx
 nav_order: 2
 parent: Inchidere de luna
 grand_parent: Accounting
