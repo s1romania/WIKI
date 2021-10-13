@@ -1,7 +1,7 @@
 ---
 layout: default
-title: S1ANAF Installation
-nav_order: 2
+title: S1ANAF Manual
+nav_order: 11
 parent: Statements
 grand_parent: Finance
 
