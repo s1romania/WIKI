@@ -1,10 +1,9 @@
 ---
 layout: default
-title: S1ANAF
+title: Statements
 nav_order: 3
 has_children: true
-parent: Taxation
-grand_parent: Finance
+parent: Finance
 ---
 
 # Configuration
