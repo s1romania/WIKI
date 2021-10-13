@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Valuation Methods
-nav_order: 5
+nav_order: 35
 has_children: true
 parent: Inventory
 ---
