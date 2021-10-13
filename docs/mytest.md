@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mytest
+title: Text Templates to use
 nav_order: 15
 
 ---
