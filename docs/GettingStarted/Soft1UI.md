@@ -2,7 +2,6 @@
 layout: default
 title: Get to Know the Interface
 nav_order: 1
-has_children: true
 permalink: docs/started
 parent: Getting Started
 ---

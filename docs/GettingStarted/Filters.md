@@ -2,7 +2,7 @@
 layout: default
 title: Searching Records 
 nav_order: 2
-has_children: true
+
 parent: Getting Started
 ---
 
