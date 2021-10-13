@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Inventory Valuation Configuration
-nav_order: 1
-parent: Valuation Methods
-grand_parent: Inventory
+title: Replenishment
+nav_order: 21
+has_children: true
+parent: Inventory
 ---
 
 # Configuration

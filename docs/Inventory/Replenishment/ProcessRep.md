@@ -1,8 +1,8 @@
 ﻿---
 layout: default
-title: Inventory Valuation Average Cost Price
+title: Replenishment Methods
 nav_order: 2
-parent: Valuation Methods
+parent: Replenishment
 grand_parent: Inventory
 ---
 
@@ -49,7 +49,7 @@ The scenario below was prepared on 01 October 2021 using Soft1 Series 5 version 
 2. *You will keep the number straight so that the results are easily calculated*
 3. *You will be posting transactions in 3 months*
 4. *adjust the months described below to your current month-2 months <br> 
-  You will post purchases in 2 past months, 1 sales last month and one return this month*
+    You will post purchases in 2 past months, 1 sales last month and one return this month*
   5. *Your company is using Weighted avg. Cost for valuation method*|
 | :- |
 
