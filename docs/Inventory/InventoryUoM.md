@@ -2,8 +2,8 @@
 layout: default
 title: Multiple Units of Measurement
 nav_order: 3
-has_children: true
-permalink: docs/Inventory
+parent: Inventory
+
 ---
 
 # Sales

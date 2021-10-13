@@ -2,8 +2,8 @@
 layout: default
 title: Items with Lots
 nav_order: 5
-has_children: true
 permalink: docs/Inventory
+parent: Inventory
 ---
 
 # Sales
