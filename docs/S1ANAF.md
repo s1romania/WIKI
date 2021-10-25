@@ -7,7 +7,7 @@ nav_order: 15
 
 
 
-![S1ANAF](C:\Users\stefan.furtuna\Documents\GitHub\WIKI\assets\images\s1anaf_1.jpg)
+![S1ANAF](\assets\images\s1anaf_1.jpg)
 
 #### Sumar
 
