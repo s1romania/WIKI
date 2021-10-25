@@ -29,7 +29,9 @@ Aplicația este livrată sub forma unui folder care conține fișierele necesare
 
 Puteți descărca cea mai recentă versiune a S1ANAF folosind următorul link:
 
-[]: http://s1international.blob.core.windows.net/romania/S1ANAF/S1ANAFCurrentVersion/S1ANAF.zip	"Download aici"
+http://s1international.blob.core.windows.net/romania/S1ANAF/S1ANAFCurrentVersion/S1ANAF.zip
+
+
 
 #### **Pas 3 – Creare fișier s1anaf.xco** 
 
@@ -140,7 +142,7 @@ Această operație trebuie reluată după fiecare update al aplicației, dacă s
 
 Pentru descărcare DUKIntegrator puteți folosi următorul link: 
 
-[]: https://static.anaf.ro/static/DUKIntegrator/DUKIntegrator.htm	"Download aici"
+http://s1international.blob.core.windows.net/romania/S1ANAF/S1ANAFCurrentVersion/S1ANAF.zip
 
 \-     după descărcare, este important să consultați documentația de instalare și configurare a DUKIntegrator.
 
